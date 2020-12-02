@@ -1,0 +1,22 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+@import 'mixins';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// TomTom
+@import '~@tomtom-international/web-sdk-maps/dist/maps.css';
+
+//CSS Michele
+@import 'michistyle';
+
+//Fontawesome
+@import '~@fortawesome/fontawesome-free/css/all.min.css';
+
+// Bootstrap Fileinput
+@import '~bootstrap-fileinput/css/fileinput.min.css';
